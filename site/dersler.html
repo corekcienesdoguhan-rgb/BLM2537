@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VKİ Tablosu ve Hesaplama</title>
+  <link rel="stylesheet" href="css/stil.css">
+</head>
+<body>
+
+  <header>
+    <img src="img/spor2.jpg" alt="No Pain No Gain" width="400">
+    <h1>Spor ve Sağlık Dünyası</h1>
+    <nav>
+      <ul class="menu">
+        <li><a href="index.html">Ana Sayfa</a></li>
+        <li><a href="dersler.html" class="aktif">VKİ Tablosu ve Hesaplama</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="hesaplama-formu">
+      <h2>Endeksinizi Hesaplayın</h2>
+      <form action="#" method="get">
+        <p>
+          <label for="boy">Boyunuz (cm):</label><br>
+          <input type="number" id="boy" name="boy" placeholder="Örn: 180" required>
+        </p>
+
+        <p>
+          <label for="kilo">Kilonuz (kg):</label><br>
+          <input type="number" id="kilo" name="kilo" placeholder="Örn: 75" required>
+        </p>
+
+        <button type="button">Hesapla</button>
+      </form>
+    </section>
+
+    <section id="vki-tablosu">
+      <h2>VKİ Değer Tablosu</h2>
+      <div class="tablo-kutu">
+        <table>
+          <caption>Vücut Kitle İndeksi Değerleri</caption>
+          <thead>
+            <tr>
+              <th>Aralık (kg/m²)</th>
+              <th>Sınıflandırma</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>18.5 altı</td>
+              <td>Zayıf</td>
+            </tr>
+            <tr>
+              <td>18.5 - 24.9</td>
+              <td>Normal kilolu</td>
+            </tr>
+            <tr>
+              <td>25.0 - 29.9</td>
+              <td>Fazla kilolu</td>
+            </tr>
+            <tr>
+              <td>30.0 ve üzeri</td>
+              <td>Obezite - Uzman kontrolü önerilir</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Spor ve Sağlık &middot; BLM2537</p>
+  </footer>
+
+</body>
+</html>
