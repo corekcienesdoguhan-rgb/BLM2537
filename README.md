@@ -4,6 +4,6 @@ Bu proje, Ağ Tabanlı Programlamaya Giriş dersi kapsamında geliştirilen VKİ
 
 ## Kullanılan Teknolojiler
 - HTML5 (Semantik etiketler, form ve tablo yapıları)
-- CSS3 (Flexbox, CSS değişkenleri, Medya sorguları ile mobil uyum)
+- CSS (Flexbox, CSS değişkenleri, Medya sorguları ile mobil uyum)
 
 
