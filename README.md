@@ -6,8 +6,4 @@ Bu proje, Ağ Tabanlı Programlamaya Giriş dersi kapsamında geliştirilen VKİ
 - HTML5 (Semantik etiketler, form ve tablo yapıları)
 - CSS3 (Flexbox, CSS değişkenleri, Medya sorguları ile mobil uyum)
 
-## Projeyi Çalıştırma Adımları
-1. Bu depoyu bilgisayarınıza indirin veya klonlayın.
-2. Proje klasörünü Visual Studio Code ile açın.
-3. VS Code üzerinde **Live Server** eklentisinin kurulu olduğundan emin olun.
-4. `index.html` dosyasına sağ tıklayıp **"Open with Live Server"** seçeneğine tıklayarak projeyi tarayıcıda çalıştırın.
+
