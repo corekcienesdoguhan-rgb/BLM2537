@@ -17,3 +17,4 @@ Bu proje, Ağ Tabanlı Programlamaya Giriş dersi kapsamında geliştirilen VKİ
 ## Haftalık İlerleme Özeti
 - **1. Hafta:** Semantik HTML yapısının kurulması, harici CSS dosyasının bağlanması ve temel sayfa düzeni.
 - **2. Hafta:** VKİ formuna cinsiyet radio butonlarının eklenmesi, min/max sınırları ile doğrulama, radio buton genişlik düzeltmesi ve VKİ tablosuna colspan satırının eklenmesi.
+* **3. Hafta:** VKİ form elemanlarına ID tanımlamaları, sonuç kutusu (#vki-sonuc) ve JS hazırlık sınıfları (.gizli, .hata), tfoot ile semantik tablo yapısı, overflow-x ile mobil tablo kaydırma ve responsive medya sorgusu iyileştirmeleri.
